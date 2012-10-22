@@ -17,7 +17,7 @@ typedef enum
 
 @interface Game : CCLayer
 {
-    //test change
+    //changed by danny
 }
 
 +(id) scene;
